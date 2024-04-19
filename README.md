@@ -24,7 +24,9 @@ A = np.array([[6,2,3],[3,1,1],[10,3,4]])
 inverse = np.linalg.inv(A)
 print("The inverse of the given matrix is",inverse)
 ```
-## Output: ![Screenshot 2024-04-07 233034](https://github.com/shanthosh397/INVERSE-OF-A-MATRIX/assets/153431200/aee01b5b-9158-4e3c-a610-134d105b23b6)
+## Output:
+![Screenshot 2024-04-19 223022](https://github.com/shanthosh397/INVERSE-OF-A-MATRIX/assets/153431200/071d3daa-da4e-4d7b-a9e2-0697d9f44124)
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
