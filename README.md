@@ -1,4 +1,4 @@
-Date:30-03-2024
+Date:16-03-2024
 # INVERSE-OF-A-MATRIX
 ## Aim:
 To write a python program to find the inverse of a matrix
